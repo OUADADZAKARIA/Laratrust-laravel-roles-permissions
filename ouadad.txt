@@ -1,0 +1,12 @@
+
+https://www.youtube.com/watch?v=uIOvPtrpdWs&t=107s
+#### laravel roles permission ######
+
+1) https://laratrust.santigarcor.me/docs/6.x/installation.html
+
+....
+
+
+2) 
+- php artisan make:seeder UserTableSeeder
+- php artisan make:seeder RolesTableSeeder
